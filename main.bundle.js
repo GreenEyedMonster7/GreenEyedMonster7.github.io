@@ -1,3 +1,7 @@
+window.polytrackModConfiguration = {
+    modName: "Quality of Life Editor Changes",
+    author: "GreenEyedMonster7",
+};
 ( () => {
     var e, t = {
         77: (module, exports, __webpack_require__) => {
